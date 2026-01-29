@@ -1,0 +1,7 @@
+golod = 100 
+sleep = 100 
+igrat = 100 
+toilet = 100 
+popitka = 7
+kol_eat = 20
+kol_money = 20
